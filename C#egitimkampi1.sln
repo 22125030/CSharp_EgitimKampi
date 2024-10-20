@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubjects", "01_MainSubjects\01_MainSubjects.csproj", "{3B01BCA8-D591-4A00-9CBE-3D20D76A9755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Veriables", "02.Veriables\02.Veriables.csproj", "{7E9C3BC4-FDCD-4E13-B30F-528BDCB82FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B01BCA8-D591-4A00-9CBE-3D20D76A9755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B01BCA8-D591-4A00-9CBE-3D20D76A9755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B01BCA8-D591-4A00-9CBE-3D20D76A9755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B01BCA8-D591-4A00-9CBE-3D20D76A9755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9C3BC4-FDCD-4E13-B30F-528BDCB82FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9C3BC4-FDCD-4E13-B30F-528BDCB82FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9C3BC4-FDCD-4E13-B30F-528BDCB82FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9C3BC4-FDCD-4E13-B30F-528BDCB82FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE5EB54D-D111-40BD-A438-F278E8A92B1A}
+	EndGlobalSection
+EndGlobal
