@@ -1,0 +1,7 @@
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe.config
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\bin\Debug\05_LoopsWithStarts.pdb
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.AssemblyReference.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\05_LoopsWithStarts\obj\Debug\05_LoopsWithStarts.pdb
