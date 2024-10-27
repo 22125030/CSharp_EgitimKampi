@@ -1,0 +1,7 @@
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\bin\Debug\03_MkingDecision.exe.config
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\bin\Debug\03_MkingDecision.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\bin\Debug\03_MkingDecision.pdb
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\obj\Debug\03_MkingDecision.csproj.AssemblyReference.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\obj\Debug\03_MkingDecision.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\obj\Debug\03_MkingDecision.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\03_MkingDecision\obj\Debug\03_MkingDecision.pdb
