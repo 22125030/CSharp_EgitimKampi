@@ -1,0 +1,7 @@
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\bin\Debug\08_Methods.exe.config
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\bin\Debug\08_Methods.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\bin\Debug\08_Methods.pdb
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\obj\Debug\08_Methods.csproj.AssemblyReference.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\obj\Debug\08_Methods.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\08_Methods\obj\Debug\08_Methods.pdb
