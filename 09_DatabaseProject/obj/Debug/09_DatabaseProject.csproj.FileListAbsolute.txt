@@ -1,0 +1,7 @@
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe.config
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\bin\Debug\09_DatabaseProject.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\bin\Debug\09_DatabaseProject.pdb
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\obj\Debug\09_DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\obj\Debug\09_DatabaseProject.exe
+C:\Users\MURAT\source\repos\C#egitimkampi1\09_DatabaseProject\obj\Debug\09_DatabaseProject.pdb
